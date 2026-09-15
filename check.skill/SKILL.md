@@ -1,5 +1,5 @@
 ---
-name: "bio"
+name: "check.skill"
 description: "对用户给出的生物信息研究方案，生成一份自包含的 HTML 格式完成情况 checklist（可点击勾选、自动保存进度）。当用户给出一个方案/计划并希望跟踪完成进度时触发。Generate an interactive HTML progress checklist whenever the user provides a bioinformatics research plan."
 ---
 
