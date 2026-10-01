@@ -1,5 +1,5 @@
 ---
-name: "research-checklist"
+name: "checklist"
 description: "将研究方案或计划拆解为可跟踪的 Excel (.xlsx) 完成清单。当用户给出方案、计划或要求检查任务完成进度时触发。"
 ---
 
